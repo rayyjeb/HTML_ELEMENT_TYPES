@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+      'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  /* element selector */
+  h1{
+    text-align: center;
+}
+  img {
+    width: 500px;
+  }
+  /* class selector */
+  .football{
+    text-transform:capitalize;
+  }
+  /* id selector */
+  #photography{
+  color: white; 
+  }
